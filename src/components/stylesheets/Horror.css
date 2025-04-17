@@ -1,0 +1,10 @@
+.contenedor-texto-horror {
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(75, 70, 72, 0.445);
+    box-shadow: o 5px 15px 2px rgb(0 0 0 / 9%);
+}
