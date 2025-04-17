@@ -4,6 +4,7 @@ import './stylesheets/Horror.css';
 function Horror() {
     return (
       <div className= 'contenedor-horror'>
+      
         <img 
           className= 'imagen-horror'
           src= {require('../imagenes/horror-melies.png')}
